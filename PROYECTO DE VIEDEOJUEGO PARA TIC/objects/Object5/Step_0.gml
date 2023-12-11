@@ -10,7 +10,7 @@ if place_meeting(x, y, Obj_Car2) // Si hay una colisión con un obstáculo a 4 p
 		instance_create_layer(xexplode,yexplode,"Instances_3",obj_explosion);
 		
         // Destruir el objeto actual
-        instance_destroy();
+        game_pause(true);
 		//instance_destroy(Obj_Car2);
         
         // Cambiar a otra sala
