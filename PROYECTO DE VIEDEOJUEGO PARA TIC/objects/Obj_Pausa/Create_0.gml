@@ -1,1 +1,2 @@
-texto = "pausa"
+pause = false
+pauseSurface =noone;
