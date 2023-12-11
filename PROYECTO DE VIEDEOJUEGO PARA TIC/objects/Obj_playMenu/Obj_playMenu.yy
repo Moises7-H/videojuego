@@ -12,10 +12,13 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objetos",
-    "path": "folders/Objetos.yy",
+    "name": "menus",
+    "path": "folders/Objetos/menus.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "Obj_Pausa",
+    "path": "objects/Obj_Pausa/Obj_Pausa.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
