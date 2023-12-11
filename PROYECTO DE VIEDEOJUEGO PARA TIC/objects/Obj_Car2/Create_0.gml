@@ -5,7 +5,7 @@ speed=5;
 //direccion del auto:
 direction=270;
 //super posicion 
-depth = -9;
+depth = -10;
 
 
 
